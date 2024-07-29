@@ -8,7 +8,7 @@ No projeto foram usados:
 
 Busca pelos dados de livros da API com **fetch** em uma **função asssíncrona**.
 
-Exibição dos livros na tela com **forEach**
+Iteração dos livros com **forEach**
 
 Aplicação dinâmica de descontos na lista de livros usando o método **.map**
 
